@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE598EBF-B34D-44B6-AA85-5C01B9A11447}|Program3\\Program3.csproj|d:\\uni2025\\technologyprogramproduct\\lab4\\program3\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE598EBF-B34D-44B6-AA85-5C01B9A11447}|Program3\\Program3.csproj|solutionrelative:program3\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2643D0-B405-4F65-B4A2-EE8ACB6F5124}|Program2\\Program2.csproj|d:\\uni2025\\technologyprogramproduct\\lab4\\program2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2643D0-B405-4F65-B4A2-EE8ACB6F5124}|Program2\\Program2.csproj|solutionrelative:program2\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5BC1DE-6549-465C-AB02-5FFF0971C06D}|lab4\\lab4.csproj|D:\\UNI2025\\TechnologyProgramProduct\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5BC1DE-6549-465C-AB02-5FFF0971C06D}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\Program3\\Program3.cs",
+              "RelativeDocumentMoniker": "Program3\\Program3.cs",
+              "ToolTip": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\Program3\\Program3.cs",
+              "RelativeToolTip": "Program3\\Program3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:29:03.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\Program2\\Program2.cs",
+              "RelativeDocumentMoniker": "Program2\\Program2.cs",
+              "ToolTip": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\Program2\\Program2.cs",
+              "RelativeToolTip": "Program2\\Program2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:31:37.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "D:\\UNI2025\\TechnologyProgramProduct\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:49:59.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

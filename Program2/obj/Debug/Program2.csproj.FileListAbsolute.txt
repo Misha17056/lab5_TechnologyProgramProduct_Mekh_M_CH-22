@@ -1,0 +1,7 @@
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\bin\Debug\Program2.exe.config
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\bin\Debug\Program2.exe
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\bin\Debug\Program2.pdb
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\obj\Debug\Program2.exe
+D:\UNI2025\TechnologyProgramProduct\lab4\Program2\obj\Debug\Program2.pdb
